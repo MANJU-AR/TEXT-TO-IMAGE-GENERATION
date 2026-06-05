@@ -57,11 +57,6 @@ A beautiful, feature-rich **Stable Diffusion** web interface built with **Gradio
 ## 📁 Project Structure
 AR-Studio/
 ├── AR1.ipynb                 # Main Colab Notebook
-├── outputs/                  # Generated images (auto-created)
-├── requirements.txt          # (optional)
-└── README.md
-text## 🔧 Installation (Local)
-
 ##  🛠️ Installation (Local)
 If you want to run this project locally on your computer:
 
