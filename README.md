@@ -2,8 +2,7 @@
 
 A beautiful, feature-rich **Stable Diffusion** web interface built with **Gradio** and **Diffusers**. Generate stunning AI images with professional controls, multiple models, and a modern cinematic UI.
 
-![AR Studio](https://via.placeholder.com/800x400/4f46e5/ffffff?text=AR+Studio+-+Stable+Diffusion)  
-*(Replace with actual screenshot when available)*
+
 
 ## ✨ Features
 
