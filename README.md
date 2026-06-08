@@ -80,7 +80,7 @@ source venv/bin/activate
 pip install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118
 
 # Install required packages
-pip install diffusers==0.21.0 transformers==4.30.2 accelerate==0.20.3
+pip install diffusers==0.21.0  transformers==4.30.2 accelerate==0.20.3
 
 # Install UI and supporting libraries
 pip install gradio safetensors xformers
